@@ -1,1 +1,0 @@
-C:\mysource\foundations\Homework1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
